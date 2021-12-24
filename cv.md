@@ -64,8 +64,3 @@ const createUniqueIdGeneratorFromRange = (min, max) => {
 
 - Russian - Native
 - English - Intermediate/Upper-intermediate(CEFR B2) (according to the online test at www.efset.org)
-
-<br>
-<br>
-
-[<img align="center" alt="rsschool" width="100px"  src="img/rs_school_js.svg" />](https://rs.school/)
